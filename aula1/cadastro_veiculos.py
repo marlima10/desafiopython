@@ -1,0 +1,5 @@
+print('cadastro de veiculos\n')
+nome_veiculo = input('Digite o nome do veiculo: ')
+ano_veiculo = input('Digite o ano do veiculo: ')
+print('O veiculo ',nome_veiculo,' ano ',ano_veiculo, 'foi cadastro com sucesso!')
+print(f'O veículo {nome_veiculo} | {ano_veiculo} foi cadastro com sucesso!')

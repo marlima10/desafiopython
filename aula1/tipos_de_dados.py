@@ -1,0 +1,6 @@
+print(type('Hello world'))
+print(type(True))
+print(type(False))
+print(type(3))
+print(type(5/3))
+print(type({'saldo':'5000','saldo':'9000'}))
